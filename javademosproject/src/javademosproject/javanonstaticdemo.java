@@ -17,8 +17,8 @@ public class javanonstaticdemo {
 		 
 		 car mycar=new car();
 		 System.out.println("noofwheels");
-		 System.out.println(mycar.noofwheels);
-		 System.out.println(car.manufacturer);
+		 System.out.println(mycar.noofwheels);//non-static variable
+		 System.out.println(car.manufacturer);//static variable
 		 System.out.println(mycar.colour);
 		 System.out.println(car.model);
 		 
