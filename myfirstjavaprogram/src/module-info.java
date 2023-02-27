@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author scr
+ *
+ */
+module myfirstjavaprogram {
+}
